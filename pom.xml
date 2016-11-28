@@ -44,7 +44,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>hw31.Single_Title_Validation</mainClass>
+							<mainClass>hw33.Single_Title_Validation.Selenium</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
